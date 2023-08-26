@@ -1,3 +1,3 @@
 - I’m Lewis
 - [@lewqs](https://discord.com/users/299849873648386048).
-- have ebola
+- have ebola and I'm a junior software developer
